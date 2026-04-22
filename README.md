@@ -1,2 +1,2 @@
 # Python
-Repository for python code I make
+Repositorio para proyectos con Python usando Jupyter Notebook
